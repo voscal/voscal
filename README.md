@@ -1,4 +1,9 @@
 ## Hi there 👋
+hi im voscal, im a solo game developer!
+
+🔭 I’m currently working on babagaboosh-GUI, it an easy to use gui adaptation of doug doug's babagaboosh programme
+
+📫 How to reach me: you can reach me on my email (voscaldev@gmail(dot)com) or my discord that uses the same name as github
 
 <!--
 **voscal/voscal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
