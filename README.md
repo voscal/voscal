@@ -1,7 +1,7 @@
 ## Hi there 👋
 hi im voscal, im a solo game developer!
 
-🛠️ I’m currently working on babagaboosh-GUI, it an easy to use gui adaptation of doug doug's babagaboosh programme
+🛠️ I’m currently working on babagaboosh-GUI, it an easy to use gui adaptation of doug doug's babagaboosh program
 
 📫 How to reach me: you can reach me on my email `contact@voscal.com` or my discord that uses the same name!
 
