@@ -1,5 +1,5 @@
 ## Hi there 👋
-hi im voscal, im a solo game developer!
+hi im voscal,
 
 🛠️ I’m currently working on babagaboosh-GUI, it an easy to use gui adaptation of doug doug's babagaboosh program
 
